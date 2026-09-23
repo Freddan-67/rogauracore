@@ -17,6 +17,8 @@
  *          - Added support for brightness adjustment.
  *          - Generalized speed specification mechanism to accomodate brightness
  *            or other integer values.
+ *   (FRA)  23 September 2026
+ *          - Added support for GL702
  *
  * \file rogauracore.c
  */
