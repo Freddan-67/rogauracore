@@ -8,6 +8,8 @@ Aura Core software.  Supports RGB keyboards with IDs
 (GL553, GL753),
 [0b05:1869](https://linux-hardware.org/index.php?id=usb:0b05-1869)
 (GL503, FX503, GL703), [0b05:1866](https://linux-hardware.org/index.php?id=usb:0b05-1866) (GL504, GL533, GL703, GX501, GM501), [0b05:19b6](https://linux-hardware.org/index.php?id=usb:0b05-19b6) (GA503)
+[0b05:1837](https://linux-hardware.org/index.php?id=usb:0b05-1837)
+(GL702),
 and [0b05:1a30](https://linux-hardware.org/index.php?id=usb:0b05-1a30) (GZ302EA).
 
 ## Usage
